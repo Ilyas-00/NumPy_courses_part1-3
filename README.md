@@ -10,6 +10,7 @@ Here's an overview of the topics covered in this repository:
     - Creating a Python list, `my_list`, and converting it into a NumPy array, `my_arr`.
     - Examples of data types.
 
+
 2. **Manipulating Multidimensional Arrays**:
     - Creating a two-dimensional array, `my_matrix`, from nested lists.
     - Using `np.arange` to generate sequences of numbers.
