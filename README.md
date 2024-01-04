@@ -2,7 +2,7 @@
 
 This repository 📦 contains a collection of Python 🐍 code snippets demonstrating how to use the NumPy library for data manipulation. NumPy is an essential library for numerical computations in Python, offering multidimensional arrays 📊 and a wide range of functions 🧬 to work with these arrays.
 
-## Content 📋
+## Content 📋 
 
 Here's an overview of the topics covered in this repository:
 
